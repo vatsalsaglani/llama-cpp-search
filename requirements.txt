@@ -1,0 +1,8 @@
+llama_cpp_python==0.2.65
+httpx==0.25.2
+tokenizers==0.15.2
+transformers==4.39.3
+pydantic==2.7.0
+fastapi==0.110.0
+uvicorn==0.29.0
+python-dotenv==1.0.1
