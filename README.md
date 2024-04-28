@@ -1,4 +1,4 @@
-# Local-cpp-search
+# llama-cpp-search
 
 A local GenerativeAI powered search engine that utilizes the powers of `llama-cpp-python` for running LLMs on your local and enahances your search experience. The current version uses the **Phi-3-mini-4k-Instruct** model for summarizing the search.
 
